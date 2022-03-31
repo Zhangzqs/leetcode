@@ -2,5 +2,6 @@
 */rust/Cargo.lock
 
 .vscode
-main
+main*
+!*.cpp
 tempCodeRunnerFile*
